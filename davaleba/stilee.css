@@ -1,0 +1,335 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #FFFFFF;
+    margin: 0px;
+}
+.container{
+    width: 151px;
+    height: 101px;
+    margin-inline: auto;
+    margin-top: 34px;
+}
+.container-1{
+    width:653px;
+    height:28px;
+    margin-inline: auto;
+    margin-top: 123px;
+    display: flex;
+    gap: 35px;
+    margin-bottom: 30px;
+}
+.button{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #957554;
+    border: none;
+    background: none;
+}
+.container-2{
+    width: 100%;
+    height: 119px;
+    background: #111111;
+    display: flex;
+    padding-top: 10px;
+    gap: 20px;
+    padding-left: 100px;
+}
+.button-1{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    color: #957554;
+    border: none;
+    background: none;
+    background-color: #FFFFFF;
+    width:192px;
+    height:60px;
+    border-radius: 10px;
+}
+.submit{
+    background-color: #957554;
+    color: #FFFFFF;
+    width:202px;
+    height: 60px;
+    border-radius: 10px;
+    border: none;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+}
+.coverphoto{
+    background-image: url(hotel.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+}
+.container-3{
+    width:1619px;
+    height:289px;
+    background-color: white;
+    margin-top: 550px;
+    margin-right:150px;
+}
+.text-1{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 52px;
+    color: #957554;
+    text-align: center;
+}
+.image-3{
+    padding-left: 197px;   
+}
+.image-4{
+    margin-left: 166px;
+}
+.image-5{
+    margin-left: 176px;
+}
+.image-6{
+    margin-left: 165px;
+}
+.image-7{
+    margin-left: 165px;   
+}
+.text-2{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #957554;
+    mix-blend-mode: normal;
+    margin-left: 185px;
+}
+.text-3{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;   
+    font-size: 24px;
+    line-height: 28px;
+    color: #957554;
+    mix-blend-mode: normal;
+    margin-left: 160px;
+}
+.text-4{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #957554;
+    mix-blend-mode: normal;
+    margin-left: 180px;
+}
+.text-5{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #957554;
+    mix-blend-mode: normal;
+    margin-left: 185px;
+}
+.text-6{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #957554;
+    mix-blend-mode: normal;
+    margin-left: 170px;
+}
+.text-7{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 52px;
+    color: #957554;
+    mix-blend-mode: normal;
+    text-align: center;
+    margin-top: 150px;
+}
+.image-8{
+    margin-left: 50px;
+}
+.image-9{
+    margin-left: 100px;
+}
+.container-4{
+    background-image: url(image-1.png);
+    width: 630px;
+    height: 500px;
+    display: flex;
+}
+.text-8{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 46px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    text-align: center;
+    margin-top: 200px;
+}
+.button-2{
+    width: 244px;
+    height: 76px;
+    background: #DFAA5B;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border: none;
+}
+center{
+    margin-top: 80px;
+    margin-inline: auto;
+}
+.container-5{
+    background-image: url(image-2.png);
+    width: 630px;
+    height: 500px;
+}
+.photo{
+    display: flex;
+    justify-content: space-around;
+}
+.center{
+    margin-top: 270px;
+}
+.container-6{
+    background-image: url(image-3.png);
+    width: 630px;
+    height: 500px;
+}
+.container-7{
+    background-image: url(image-4.png);
+    width: 630px;
+    height: 500px;
+}
+.photo-1{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.container-8{
+    width: 1319px;
+    height: 277px;
+    background-color: #FFFFFF;
+    margin-inline: auto;
+    margin-top: 50px;
+}
+.text-9{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 52px;
+    color: #957554;
+    mix-blend-mode: normal;
+    text-align: center;
+    padding-top: 80px;
+}
+.button-3{
+    width: 418px;
+    height: 76px;
+    left: 512px;
+    top: 2701px;
+    background: #DFAA5B;
+    border-radius: 10px;
+    border: none;
+    margin-left: 450px;
+    color: #FFFFFF;
+}
+.container-9{
+    width: 100%;
+    height: 469px;
+    background-color: black;
+    margin-top: 100px;
+    display: flex;
+}
+.image-9{
+    margin:70px;
+    background-color: #FFFFFF;
+    width: 154px;
+    height: 126px;
+}
+address{
+    width: 263px;
+    height: 83px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    margin-top: 300px;
+    margin-left: -250px;
+}
+.container-10{
+    width: 194px;
+    height: 310px;
+    background-color: black;
+    margin-top: 60px;
+    margin-left: 350px;
+}
+h4{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+}
+.text-10{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    margin-inline: auto;
+    padding-top: 70px;
+    margin-left: 300px;
+    width: 268px;
+    height: 34px;
+}
+.Email{
+    width: 371px;
+    height: 75px;
+    left: 1000px;
+    top: 3004px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    margin-top: 250px;
+    margin-inline: auto;
+    margin-right: 150px;
+}
+.button-4{
+    width: 371px;
+    height: 75px;
+    left: 1000px;
+    top: 3103px;
+    background: #DFAA5B;
+    border-radius: 10px;
+    color: #FFFFFF;
+    }
+    
